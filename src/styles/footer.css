@@ -1,0 +1,42 @@
+@import url('./_vars.css');
+
+footer{
+    display:flex;
+    justify-content: space-around;
+    background: var(--black);
+    color:white;
+    height: 80px;
+    align-items: center;
+}
+
+footer p{
+    margin-bottom:10px;
+}
+
+.footer__rrss{
+    display:flex;
+    margin-top:10px;
+    gap:10px;
+}
+
+.footer__rrss a{
+    color:white;
+    text-align: center;
+    text-decoration: none;
+}
+
+.footer__rrss a i{
+    font-size: 2rem;
+}
+
+.footer__link:hover{
+    transform: scale(1.1);
+    transition: all 0.3s ease;
+}
+
+@media (max-width: 500px){
+    footer{
+        flex-direction: column-reverse;
+        height: 90px;
+    }
+}

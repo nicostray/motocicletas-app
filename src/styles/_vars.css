@@ -1,0 +1,19 @@
+:root{
+    --white:#FFFF;
+    --PrimaryColor: #009e61;
+    --gray: #eeeeee;
+    --black: #252525;
+    --lightBlack: #353535;
+    --red: #c63637;
+    --green: #42ab49;
+}
+
+body{
+    background: var(--gray);
+}
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}

@@ -1,0 +1,21 @@
+@import url('./_vars.css');
+
+.motociclista{
+    background: var(--green);
+    height: 120px;
+    text-align: center;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    color:white;
+    box-shadow: 0px 0px 7px 5px rgb(0 0 0 / 10%);
+    cursor:pointer;
+}
+
+.motociclista h4{
+    font-size: 1.2rem;
+}
+
+.ocupado{
+    background: var(--red);
+}

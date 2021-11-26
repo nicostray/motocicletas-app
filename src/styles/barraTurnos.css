@@ -1,0 +1,41 @@
+@import url('./_vars.css');
+
+.main-barra{
+    display:flex;
+    align-items: center;
+    justify-content: space-around;
+    background: var(--white);
+    width: 75%;
+    padding: 10px 0;
+    box-shadow: 0px 0px 7px 5px rgb(0 0 0 / 10%);
+}
+
+.main-barra__turno{
+    display:flex;
+    gap:5px;
+}
+
+.main-barra__btn{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    border: 1px solid grey;
+    cursor:pointer;
+}
+
+.main-barra__btn:hover{
+    transform: scale(1.1);
+    transition: all 0.3s ease-in-out;
+}
+
+@media (max-width: 700px){
+    .main-barra{
+        flex-direction: column-reverse;
+        gap:10px;
+        width: fit-content;
+    }
+
+    .main-barra__turno{
+        margin: 0 20px;
+    }
+}
