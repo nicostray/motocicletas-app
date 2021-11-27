@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/motocicletas-app/static/css/main.041e0e85.chunk.css",
+    "main.css": "/motocicletas-app/static/css/main.8e5a50a6.chunk.css",
     "main.js": "/motocicletas-app/static/js/main.06a6483b.chunk.js",
     "main.js.map": "/motocicletas-app/static/js/main.06a6483b.chunk.js.map",
     "runtime-main.js": "/motocicletas-app/static/js/runtime-main.58896c7e.js",
@@ -8,14 +8,14 @@
     "static/js/2.242cdd31.chunk.js": "/motocicletas-app/static/js/2.242cdd31.chunk.js",
     "static/js/2.242cdd31.chunk.js.map": "/motocicletas-app/static/js/2.242cdd31.chunk.js.map",
     "index.html": "/motocicletas-app/index.html",
-    "static/css/main.041e0e85.chunk.css.map": "/motocicletas-app/static/css/main.041e0e85.chunk.css.map",
+    "static/css/main.8e5a50a6.chunk.css.map": "/motocicletas-app/static/css/main.8e5a50a6.chunk.css.map",
     "static/js/2.242cdd31.chunk.js.LICENSE.txt": "/motocicletas-app/static/js/2.242cdd31.chunk.js.LICENSE.txt",
     "static/media/logo.1a05feff.png": "/motocicletas-app/static/media/logo.1a05feff.png"
   },
   "entrypoints": [
     "static/js/runtime-main.58896c7e.js",
     "static/js/2.242cdd31.chunk.js",
-    "static/css/main.041e0e85.chunk.css",
+    "static/css/main.8e5a50a6.chunk.css",
     "static/js/main.06a6483b.chunk.js"
   ]
 }
